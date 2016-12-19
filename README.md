@@ -1,3 +1,3 @@
 # filter_tourists_on_flickr
 
-Here is a code in R to filter the Flickr pictures taken in a city over one year, that have been shot by tourists or by the local residents.
+This code in Python allows to filter the Flickr pictures shot within a city by tourists or by local residents, by labelling as tourists users uploading pictures in a two-months time within a year.
